@@ -1,0 +1,15 @@
+/Users/ivc/Desktop/Git edu/C#/func/bin/Debug/net6.0/func
+/Users/ivc/Desktop/Git edu/C#/func/bin/Debug/net6.0/func.deps.json
+/Users/ivc/Desktop/Git edu/C#/func/bin/Debug/net6.0/func.runtimeconfig.json
+/Users/ivc/Desktop/Git edu/C#/func/bin/Debug/net6.0/func.dll
+/Users/ivc/Desktop/Git edu/C#/func/bin/Debug/net6.0/func.pdb
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/func.csproj.AssemblyReference.cache
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/func.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/func.AssemblyInfoInputs.cache
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/func.AssemblyInfo.cs
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/func.csproj.CoreCompileInputs.cache
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/func.dll
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/refint/func.dll
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/func.pdb
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/func.genruntimeconfig.cache
+/Users/ivc/Desktop/Git edu/C#/func/obj/Debug/net6.0/ref/func.dll

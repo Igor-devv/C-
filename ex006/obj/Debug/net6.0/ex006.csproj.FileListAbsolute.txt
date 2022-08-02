@@ -1,0 +1,15 @@
+/Users/ivc/Desktop/Git edu/C#/ex006/bin/Debug/net6.0/ex006
+/Users/ivc/Desktop/Git edu/C#/ex006/bin/Debug/net6.0/ex006.deps.json
+/Users/ivc/Desktop/Git edu/C#/ex006/bin/Debug/net6.0/ex006.runtimeconfig.json
+/Users/ivc/Desktop/Git edu/C#/ex006/bin/Debug/net6.0/ex006.dll
+/Users/ivc/Desktop/Git edu/C#/ex006/bin/Debug/net6.0/ex006.pdb
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/ex006.csproj.AssemblyReference.cache
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/ex006.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/ex006.AssemblyInfoInputs.cache
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/ex006.AssemblyInfo.cs
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/ex006.csproj.CoreCompileInputs.cache
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/ex006.dll
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/refint/ex006.dll
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/ex006.pdb
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/ex006.genruntimeconfig.cache
+/Users/ivc/Desktop/Git edu/C#/ex006/obj/Debug/net6.0/ref/ex006.dll

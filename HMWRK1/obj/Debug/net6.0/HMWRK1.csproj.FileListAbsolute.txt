@@ -1,0 +1,15 @@
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/bin/Debug/net6.0/HMWRK1
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/bin/Debug/net6.0/HMWRK1.deps.json
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/bin/Debug/net6.0/HMWRK1.runtimeconfig.json
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/bin/Debug/net6.0/HMWRK1.dll
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/bin/Debug/net6.0/HMWRK1.pdb
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/HMWRK1.csproj.AssemblyReference.cache
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/HMWRK1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/HMWRK1.AssemblyInfoInputs.cache
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/HMWRK1.AssemblyInfo.cs
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/HMWRK1.csproj.CoreCompileInputs.cache
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/HMWRK1.dll
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/refint/HMWRK1.dll
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/HMWRK1.pdb
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/HMWRK1.genruntimeconfig.cache
+/Users/ivc/Desktop/Git edu/C#/HMWRK1/obj/Debug/net6.0/ref/HMWRK1.dll

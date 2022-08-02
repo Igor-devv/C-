@@ -1,0 +1,15 @@
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/bin/Debug/net6.0/hmwrk4
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/bin/Debug/net6.0/hmwrk4.deps.json
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/bin/Debug/net6.0/hmwrk4.runtimeconfig.json
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/bin/Debug/net6.0/hmwrk4.dll
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/bin/Debug/net6.0/hmwrk4.pdb
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/hmwrk4.csproj.AssemblyReference.cache
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/hmwrk4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/hmwrk4.AssemblyInfoInputs.cache
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/hmwrk4.AssemblyInfo.cs
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/hmwrk4.csproj.CoreCompileInputs.cache
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/hmwrk4.dll
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/refint/hmwrk4.dll
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/hmwrk4.pdb
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/hmwrk4.genruntimeconfig.cache
+/Users/ivc/Desktop/Git edu/C#/hmwrk4/obj/Debug/net6.0/ref/hmwrk4.dll

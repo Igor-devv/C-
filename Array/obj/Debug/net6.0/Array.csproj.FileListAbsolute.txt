@@ -1,0 +1,15 @@
+/Users/ivc/Desktop/Git edu/C#/Array/bin/Debug/net6.0/Array
+/Users/ivc/Desktop/Git edu/C#/Array/bin/Debug/net6.0/Array.deps.json
+/Users/ivc/Desktop/Git edu/C#/Array/bin/Debug/net6.0/Array.runtimeconfig.json
+/Users/ivc/Desktop/Git edu/C#/Array/bin/Debug/net6.0/Array.dll
+/Users/ivc/Desktop/Git edu/C#/Array/bin/Debug/net6.0/Array.pdb
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/Array.csproj.AssemblyReference.cache
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/Array.AssemblyInfoInputs.cache
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/Array.AssemblyInfo.cs
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/Array.csproj.CoreCompileInputs.cache
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/Array.dll
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/refint/Array.dll
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/Array.pdb
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/Array.genruntimeconfig.cache
+/Users/ivc/Desktop/Git edu/C#/Array/obj/Debug/net6.0/ref/Array.dll

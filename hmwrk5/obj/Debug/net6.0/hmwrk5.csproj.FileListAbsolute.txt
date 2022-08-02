@@ -1,0 +1,5 @@
+/Users/ivc/Desktop/Git edu/C#/hmwrk5/obj/Debug/net6.0/hmwrk5.csproj.AssemblyReference.cache
+/Users/ivc/Desktop/Git edu/C#/hmwrk5/obj/Debug/net6.0/hmwrk5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivc/Desktop/Git edu/C#/hmwrk5/obj/Debug/net6.0/hmwrk5.AssemblyInfoInputs.cache
+/Users/ivc/Desktop/Git edu/C#/hmwrk5/obj/Debug/net6.0/hmwrk5.AssemblyInfo.cs
+/Users/ivc/Desktop/Git edu/C#/hmwrk5/obj/Debug/net6.0/hmwrk5.csproj.CoreCompileInputs.cache

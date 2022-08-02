@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ivc/Desktop/Git edu/C#/Hmwrk7/Hmwrk7.csproj": {}
+  },
+  "projects": {
+    "/Users/ivc/Desktop/Git edu/C#/Hmwrk7/Hmwrk7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ivc/Desktop/Git edu/C#/Hmwrk7/Hmwrk7.csproj",
+        "projectName": "Hmwrk7",
+        "projectPath": "/Users/ivc/Desktop/Git edu/C#/Hmwrk7/Hmwrk7.csproj",
+        "packagesPath": "/Users/ivc/.nuget/packages/",
+        "outputPath": "/Users/ivc/Desktop/Git edu/C#/Hmwrk7/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ivc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
